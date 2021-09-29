@@ -1,4 +1,2 @@
-# chatbot-socket-programming
+# ChatBot App
 Realtime Communication System Using Socket Programming
-# chatbot-socket-programming
-# chatbot-socket-programming
