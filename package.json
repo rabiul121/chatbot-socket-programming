@@ -1,0 +1,28 @@
+{
+    "name": "chatbot-socket-programming",
+    "version": "1.0.0",
+    "description": "Realtime Communication System Using Socket Programming",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server",
+        "dev": "nodemon server"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/robiul121/chatbot-socket-programming.git"
+    },
+    "author": "Md. Rabiul Islam",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/robiul121/chatbot-socket-programming/issues"
+    },
+    "homepage": "https://github.com/robiul121/chatbot-socket-programming#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "moment": "^2.29.1",
+        "socket.io": "^4.2.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.12"
+    }
+}
